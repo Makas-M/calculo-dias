@@ -12,6 +12,5 @@ if ($d2 < $d1) {
 	$dataFinal = $dataFinal * (-1);	
 }
 //saida
-echo $dataFinal;
-
+echo "A diferença entre as duas datas é de $dataFinal dias";
 ?>
